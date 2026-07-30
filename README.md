@@ -4,6 +4,10 @@ Facial Emotion Detector
 
 Hello my name is Landon Sanderson, I used my Jetson Orin Nano to create an emotion detector based on the person's facial expressions.
 
+<img width="2558" height="1595" alt="Screenshot 2026-07-29 164724" src="https://github.com/user-attachments/assets/8d8c92df-1555-4507-bb06-95c412e41abf" />
+<img width="2558" height="1597" alt="Screenshot 2026-07-29 163727" src="https://github.com/user-attachments/assets/eb69aeca-a63a-4163-847e-9d0f6738b1e6" />
+
+
 
 The Algorithm
 

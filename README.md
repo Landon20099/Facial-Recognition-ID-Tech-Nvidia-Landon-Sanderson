@@ -1,4 +1,4 @@
-Facial Emotion Detector
+**Facial Emotion Detector**
 
 
 
@@ -9,7 +9,7 @@ Hello my name is Landon Sanderson, I used my Jetson Orin Nano to create an emoti
 
 
 
-The Algorithm
+**The Algorithm**
 
 
 
